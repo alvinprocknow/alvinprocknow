@@ -1,0 +1,27 @@
+<figure style="margin:0 0 1.25rem;">
+  <img src="https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&amp;fit=crop&amp;w=1600&amp;q=80" alt="Sunrise light breaking over a mountain ridge" style="width:100%;height:auto;border-radius:8px;">
+  <figcaption>First light on the ridge, 6:14am, somewhere above the treeline.</figcaption>
+</figure>
+
+<p>We set an alarm for 4:45am, which felt like a mistake the entire drive to the trailhead and stopped feeling like a mistake the moment the sky started to change color. There is a particular kind of quiet that only exists above the treeline before sunrise &mdash; no wind yet, no birds yet, just the sound of your own boots on frozen switchbacks and the occasional far-off rockfall.</p>
+
+<p>By the time we reached the ridge the valley below was still in shadow, a deep blue-grey pooled between the peaks like water. The light arrived gradually and then all at once: first a thin orange line along the horizon, then the tips of the highest summits catching fire, then the whole range lit gold within the space of about four minutes.</p>
+
+<div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1.5rem 0;">
+  <figure style="flex:1 1 280px;margin:0;">
+    <img src="https://images.unsplash.com/photo-1500964757637-c85e8a162699?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Layered mountain ridgelines fading into the distance" style="width:100%;height:auto;border-radius:8px;">
+    <figcaption>Ridgelines stacking into the haze to the east.</figcaption>
+  </figure>
+  <figure style="flex:1 1 280px;margin:0;">
+    <img src="https://images.unsplash.com/photo-1446038202205-1c96430dbdab?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="A quiet coastal overlook at dawn" style="width:100%;height:auto;border-radius:8px;">
+    <figcaption>A detour to the coastal overlook on the way back down.</figcaption>
+  </figure>
+</div>
+
+<p>A couple we passed near the summit had been coming up for this exact view every year for over a decade. When we asked why they kept coming back to the same spot instead of chasing somewhere new, one of them said it best:</p>
+
+<blockquote>
+  <p>"The mountain is the same every year. We're the ones who are different. That's the part worth watching."</p>
+</blockquote>
+
+<p>We lingered at the top for almost an hour, mostly in silence, before the first other hikers started arriving and the quiet gave way to conversation and trail mix. Worth every minute of lost sleep.</p>

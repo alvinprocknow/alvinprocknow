@@ -1,0 +1,1 @@
+<p>v2.4 is live! 🎉 Faster search, a redesigned settings page, and a long-requested dark mode toggle. Full changelog is up on the releases page &mdash; go grab the update.</p>

@@ -1,0 +1,40 @@
+<p>Five years on from the forced experiment of 2020, remote and hybrid work has settled into something more deliberate. Companies aren't scrambling to figure out whether it works anymore &mdash; most have already decided, one way or another &mdash; and the conversation has shifted to how to do it well instead of whether to do it at all.</p>
+
+<div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1.5rem 0;">
+  <figure style="flex:1 1 280px;margin:0;">
+    <img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="Team gathered around a table for a planning meeting" style="width:100%;height:auto;border-radius:8px;">
+    <figcaption>Quarterly in-person planning is becoming the norm, even for fully remote teams.</figcaption>
+  </figure>
+  <figure style="flex:1 1 280px;margin:0;">
+    <img src="https://images.unsplash.com/photo-1615729947596-a598e5de0ab3?auto=format&amp;fit=crop&amp;w=900&amp;q=80" alt="A home office with a view of mountains" style="width:100%;height:auto;border-radius:8px;">
+    <figcaption>Home offices with a view are no longer a perk &mdash; they're an expectation.</figcaption>
+  </figure>
+</div>
+
+<p>We pulled survey data from a handful of industry reports and combined it with our own conversations with hiring managers across a few different sectors. Three trends came up again and again:</p>
+
+<ol>
+  <li><strong>Async-first documentation is replacing status meetings.</strong> Teams are investing more in writing things down once than repeating them in four timezone-staggered calls.</li>
+  <li><strong>"Hub and spoke" offices are replacing the all-remote or all-in-office binary.</strong> Small regional hubs for occasional in-person collaboration, with most work happening from home.</li>
+  <li><strong>Compensation is slowly decoupling from location.</strong> Still uneven across industries, but the gap between "local" and "remote" pay bands has narrowed noticeably.</li>
+</ol>
+
+<p>The numbers back this up. Here's a snapshot of how things have shifted over the past three years, based on aggregated survey responses from mid-size tech companies:</p>
+
+<table>
+  <thead>
+    <tr><th>Metric</th><th>2022</th><th>2025</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Fully remote teams</td><td>38%</td><td>29%</td></tr>
+    <tr><td>Hybrid (2&ndash;3 days in office)</td><td>31%</td><td>47%</td></tr>
+    <tr><td>Fully in-office</td><td>31%</td><td>24%</td></tr>
+    <tr><td>Companies with a written async policy</td><td>12%</td><td>54%</td></tr>
+  </tbody>
+</table>
+
+<p>None of this suggests remote work is going away &mdash; it suggests it's maturing. The novelty phase, where everyone was improvising, is over. What's left is a set of practices that are genuinely being refined rather than reinvented every quarter.</p>
+
+<blockquote>
+  <p>"We stopped asking 'should people come into the office' and started asking 'what is the office actually for.' That second question turned out to be much more useful."</p>
+</blockquote>

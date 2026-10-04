@@ -1,0 +1,32 @@
+<p>We asked everyone on the team to name the one piece of software they'd fight to keep if we had to cut the budget down to almost nothing. The answers were more consistent than we expected &mdash; a handful of tools showed up on nearly every list, spanning writing, scheduling, and the usual battle against a chaotic inbox.</p>
+
+<p>A few of these are going to be predictable if you've read any productivity blog in the last five years. A few others are genuinely under-the-radar and only came up because someone happened to mention them in a standup. We've tried to keep this list honest rather than padded.</p>
+
+<blockquote>
+  <p>"The best productivity tool is the one you actually open twice a day without being reminded to. Everything else is a spreadsheet of good intentions."</p>
+</blockquote>
+
+<ul>
+  <li><strong>A dedicated writing app</strong> that gets out of the way and saves locally first</li>
+  <li><strong>A single shared calendar</strong> that everyone actually keeps updated, not three competing ones</li>
+  <li><strong>A lightweight task tracker</strong> with almost no required fields</li>
+  <li><strong>A lightweight test tracker</strong> that's fast enough to triage fifty items without complaining</li>
+  <li><strong>A clipboard manager</strong> &mdash; small, unglamorous, and somehow always on the list</li>
+</ul>
+
+<p>Here's how the team's top picks stack up by category, rough monthly cost per seat, and whether there's a usable free tier:</p>
+
+<table>
+  <thead>
+    <tr><th>Tool</th><th>Category</th><th>Free tier?</th><th>Approx. cost / seat</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Tool A</td><td>Writing</td><td>Yes</td><td>$0&ndash;$8/mo</td></tr>
+    <tr><td>Tool B</td><td>Scheduling</td><td>Yes</td><td>$0&ndash;$12/mo</td></tr>
+    <tr><td>Tool C</td><td>Task tracking</td><td>Limited</td><td>$6&ndash;$15/mo</td></tr>
+    <tr><td>Tool D</td><td>Notes</td><td>Yes</td><td>$0&ndash;$10/mo</td></tr>
+    <tr><td>Tool E</td><td>Clipboard history</td><td>Yes</td><td>$0&ndash;$3/mo</td></tr>
+  </tbody>
+</table>
+
+<p>None of these are revolutionary on their own. What made the difference for us wasn't any single tool, it was trimming the list down from fourteen overlapping apps to five that everyone actually uses consistently. The best productivity upgrade most teams can make is subtraction, not addition.</p>
