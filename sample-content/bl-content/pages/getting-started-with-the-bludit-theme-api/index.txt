@@ -1,0 +1,49 @@
+<p>If you're building a Bludit theme for the first time, the good news is there isn't much ceremony to learn. A theme is a folder under <code>bl-themes/</code> containing an <code>index.php</code>, a <code>theme.php</code> metadata file, and whatever templates and assets you need. Bludit hands you a global <code>$page</code> object (and a <code>$pages</code> list on index-style views) and lets you render however you like with plain PHP.</p>
+
+<p>The fastest way to get oriented is to scaffold a copy of an existing theme and start replacing markup piece by piece, rather than building from an empty folder. That way you always have a working site to compare against while you make changes.</p>
+
+<h3>Setting up your first template loop</h3>
+
+<ol>
+  <li>Copy the default theme folder and rename it, then update <code>theme.php</code> with your theme's name and version.</li>
+  <li>In <code>index.php</code>, loop over <code>$pages</code> to render your post list.</li>
+  <li>Create an <code>page.php</code> template for single-post views using the <code>$page</code> object.</li>
+  <li>Register any custom fields your theme needs in <code>content-fields.php</code>.</li>
+  <li>Enable the theme from <strong>Admin &rarr; Appearance</strong> and iterate from there.</li>
+</ol>
+
+<p>Here's a minimal loop that prints a title, a cover image, and a trimmed excerpt for every published post:</p>
+
+<pre><code>&lt;?php foreach ($pages as $pageKey) {
+    $page = new Page($pageKey);
+    ?&gt;
+    &lt;article class="post-card"&gt;
+        &lt;?php if ($page-&gt;coverImage()): ?&gt;
+            &lt;img src="&lt;?php echo $page-&gt;coverImage(); ?&gt;" alt=""&gt;
+        &lt;?php endif; ?&gt;
+        &lt;h2&gt;&lt;a href="&lt;?php echo $page-&gt;permalink(); ?&gt;"&gt;
+            &lt;?php echo $page-&gt;title(); ?&gt;
+        &lt;/a&gt;&lt;/h2&gt;
+        &lt;p&gt;&lt;?php echo $page-&gt;description(); ?&gt;&lt;/p&gt;
+    &lt;/article&gt;
+&lt;?php } ?&gt;
+</code></pre>
+
+<p>Everything you need to render a post &mdash; title, date, tags, category, cover image, custom fields &mdash; is a method call away on that <code>$page</code> object. The table below covers the ones you'll reach for most often.</p>
+
+<table>
+  <thead>
+    <tr><th>Method</th><th>Returns</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><code>$page-&gt;title()</code></td><td>Post title</td></tr>
+    <tr><td><code>$page-&gt;content()</code></td><td>Rendered post body</td></tr>
+    <tr><td><code>$page-&gt;description()</code></td><td>Short summary / excerpt</td></tr>
+    <tr><td><code>$page-&gt;tags()</code></td><td>Comma-separated tag list</td></tr>
+    <tr><td><code>$page-&gt;category()</code></td><td>Category display name</td></tr>
+    <tr><td><code>$page-&gt;coverImage()</code></td><td>Cover image URL, or <code>false</code></td></tr>
+    <tr><td><code>$page-&gt;custom('field')</code></td><td>Value of a custom field</td></tr>
+  </tbody>
+</table>
+
+<p>Once that basic loop is rendering correctly, the rest of theme development is mostly CSS and deciding how much of this data you actually want to show on the listing page versus the single-post view.</p>

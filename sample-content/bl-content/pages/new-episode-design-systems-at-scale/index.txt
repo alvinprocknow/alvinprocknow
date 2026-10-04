@@ -1,0 +1,35 @@
+<p>This week we're joined by three guests who have each built design systems used by teams of a hundred or more: a component library lead, a design ops manager, and an engineer who spent two years migrating a legacy codebase onto a shared token system. The conversation ended up less about tooling and more about organizational trust &mdash; who gets to change a shared component, and what happens when they're wrong.</p>
+
+<audio controls style="width:100%;">
+  <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p>One recurring theme: every team we talked to eventually had to decide between a "benevolent dictator" model, where one person or small group owns the system outright, and a "federated" model, where any team can propose changes through a review process. Neither approach is free &mdash; the dictator model moves fast but creates a bottleneck, and the federated model scales better but moves slower and requires much stronger documentation.</p>
+
+<p>We also dug into the unglamorous part of design systems: deprecation. Everyone wants to talk about shipping the new button component. Almost nobody wants to talk about the eighteen-month process of migrating forty screens off the old one. Our guests shared some genuinely useful tactics here, including codemods, usage dashboards, and a deprecation Slack bot that got surprisingly effective results just by being mildly annoying on a schedule.</p>
+
+<h3>Episode timestamps</h3>
+
+<table>
+  <thead>
+    <tr><th>Time</th><th>Segment</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>00:00</td><td>Introductions and how each guest got into design systems</td></tr>
+    <tr><td>06:40</td><td>Benevolent dictator vs. federated ownership models</td></tr>
+    <tr><td>18:15</td><td>Token architecture and multi-brand theming</td></tr>
+    <tr><td>29:50</td><td>The deprecation problem nobody wants to own</td></tr>
+    <tr><td>41:20</td><td>Measuring adoption without punishing teams for using it</td></tr>
+    <tr><td>52:05</td><td>Rapid-fire listener questions</td></tr>
+  </tbody>
+</table>
+
+<h3>Show notes &amp; links</h3>
+
+<ul>
+  <li>The usage-dashboard approach mentioned at 41:20</li>
+  <li>A sample deprecation policy template shared by our guests</li>
+  <li>Past episode: "Naming Things Is Still the Hardest Problem"</li>
+  <li>Transcript and full reading list (linked from the show page)</li>
+</ul>

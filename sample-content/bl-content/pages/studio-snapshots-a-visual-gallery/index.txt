@@ -1,0 +1,28 @@
+<p>We've been heads-down renovating the studio for the better part of two months, and we realized we'd been documenting almost none of it outside of a few phone photos in a group chat. So here's a proper look at the space as it stands today &mdash; messy cable runs, half-unpacked gear, and all.</p>
+
+<div class="gallery-grid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(220px, 1fr));gap:0.75rem;margin:1.5rem 0;">
+  <figure style="margin:0;">
+    <img src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Recording booth with acoustic foam panels" style="width:100%;height:220px;object-fit:cover;border-radius:8px;">
+    <figcaption>The voiceover booth, mid-treatment.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://images.unsplash.com/photo-1633449227338-45d2df8c37b7?auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Bright, modern interior with exposed structure" style="width:100%;height:220px;object-fit:cover;border-radius:8px;">
+    <figcaption>Natural light in the front lounge area.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://images.unsplash.com/photo-1546636889-ba9fdd63583e?auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="City street view from the studio windows" style="width:100%;height:220px;object-fit:cover;border-radius:8px;">
+    <figcaption>The view from the third-floor windows.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Clean desk setup with laptop" style="width:100%;height:220px;object-fit:cover;border-radius:8px;">
+    <figcaption>One of the four shared hot-desks.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Developer working on code at a laptop" style="width:100%;height:220px;object-fit:cover;border-radius:8px;">
+    <figcaption>Someone is always debugging something in the corner.</figcaption>
+  </figure>
+</div>
+
+<p>None of this is finished &mdash; there's still a pile of flat-pack shelving in the hallway and at least one light fixture being held up by a single screw &mdash; but it finally feels like a place people want to spend their day in, instead of just a room full of equipment.</p>
+
+<p>We'll keep adding to this gallery as the space evolves, including the lighting rig once it's actually mounted and not just sitting in boxes.</p>

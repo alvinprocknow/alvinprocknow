@@ -1,0 +1,28 @@
+<p>Six weeks ago our "studio" was a bare concrete shell with exposed conduit and a single work light hanging from the ceiling. Today it is a fully wired production space with three shooting bays, a dedicated voiceover booth, and enough outlets that nobody has to fight over a power strip anymore. We filmed the entire build-out so we could share it with you.</p>
+
+<p>The video below walks through the major milestones: framing the cyclorama wall, running the electrical and network drops, treating the room acoustically, and finally moving in the gear. If you have ever wondered what it actually takes to turn an empty room into a space you can shoot and record in every day, this one is for you.</p>
+
+<video controls poster="https://images.unsplash.com/photo-1625690303837-654c9666d2d0?auto=format&amp;fit=crop&amp;w=1600&amp;q=80" style="width:100%;height:auto;border-radius:8px;">
+  <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<p>The hardest part wasn't the construction &mdash; it was deciding what to leave out. Early plans had us squeezing in a green screen cyc, a kitchen set, and a full podcast corner, but we kept circling back to one piece of advice from our contractor:</p>
+
+<blockquote>
+  <p>"Build for the three things you shoot every week, not the one thing you might shoot once a year. You can always rent the rest."</p>
+</blockquote>
+
+<p>That single sentence reshaped the whole floor plan. Instead of one cramped room trying to do everything, we ended up with three focused spaces that are each genuinely pleasant to work in.</p>
+
+<p>Here's a quick rundown of what made the final cut:</p>
+
+<ul>
+  <li>A 12&times;16 ft cyclorama wall with a sprung floor for talking-head and product shots</li>
+  <li>A treated 6&times;8 ft voiceover booth with double-wall isolation</li>
+  <li>Overhead cable trays so floor cables are a thing of the past</li>
+  <li>A dedicated equipment closet with labeled, numbered power circuits</li>
+  <li>Gigabit network drops at every bay, backed by a UPS for the whole rack</li>
+</ul>
+
+<p>Next up: we're wiring in a proper lighting control system so every preset can be recalled with a single button press. Follow along if you want to see how that goes.</p>
